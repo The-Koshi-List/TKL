@@ -1,1 +1,24 @@
-
+{
+    "id": 135065519,
+    "name": "Dailys Corridor",
+    "author": "NikoPra",
+    "creators": ["NikoPra"],
+    "verifier": "NikoPra",
+    "verification": "https://medal.tv/games/geometry-dash/clips/mjO4cICEdwOCGq2D6?invite=cr-MSxoVDcsNDI2OTIyOTAw&v=8",
+    "percentToQualify": "56",
+    "password": "Not needed",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
