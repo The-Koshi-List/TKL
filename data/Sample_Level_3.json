@@ -1,16 +1,16 @@
 {
-    "id": 135065519,
-    "name": "Sample Level test 3",
-    "author": "Veft",
-    "creators": ["veft"],
-    "verifier": "veft",
+    "id": 135839910
+    "name": "Daily's corridor",
+    "author": "NikoPra",
+    "creators": ["NikoPra"],
+    "verifier": "NikoPra",
     "verification": "https://youtu.be/Uk3vmtYUsck",
     "percentToQualify": "100",
     "password": "46290",
     "records": [
         {
             "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "link":  "https://medal.tv/games/geometry-dash/clips/mjO4cICEdwOCGq2D6?invite=cr-MSxoVDcsNDI2OTIyOTAw&v=8",
             "percent": 100,
             "hz": 360
         },
