@@ -1,12 +1,12 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
+    "id": 129530272,
+    "name": "Tachyon Ballenge",
     "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "creators": ["Koshi", "Creator2", "Creator3"],
+    "verifier": "Koshi",
+    "verification": "https://youtu.be/rFwsrsQiMQs",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "password": "Not needed",
     "records": [
         {
             "user": "Sample_Victor_1",
