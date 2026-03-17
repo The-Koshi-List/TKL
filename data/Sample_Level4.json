@@ -1,22 +1,22 @@
 {
-    "id": 129530272,
-    "name": "Test level",
+    "id": 132741671,
+    "name": "Harine Wave",
     "author": "LevelUploader",
-    "creators": ["Koshi", "Creator2", "Creator3"],
-    "verifier": "Koshi",
-    "verification": "https://youtu.be/rFwsrsQiMQs",
+    "creators": ["Classical", "", ""],
+    "verifier": "Classical",
+    "verification": "https://www.youtube.com/watch?v=8J2Gj1fkf7A",
     "percentToQualify": 56,
-    "password": "Not needed",
+    "password": "Not Required",
     "records": [
         {
-            "user": "NikoPra",
+            "user": "Sample dummy",
             "link": "https://medal.tv/games/geometry-dash/clips/mjNsRCeesRx1Bqb-6?invite=cr-MSxCY2csNDI2OTIyOTAw&v=13",
             "percent": 100,
             "hz": 240
         },
         {
 
-        "user": "Spodar",
+        "user": "Sample dummy 2",
             "link": "https://youtu.be/cEBMO-V_9kU",
             "percent": 100,
             "hz": 165
