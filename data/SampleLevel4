@@ -1,1 +1,25 @@
+{
+    "id": 129530272,
+    "name": "Tachyon Ballenge",
+    "author": "LevelUploader",
+    "creators": ["Koshi", "Creator2", "Creator3"],
+    "verifier": "Koshi",
+    "verification": "https://youtu.be/rFwsrsQiMQs",
+    "percentToQualify": 56,
+    "password": "Not needed",
+    "records": [
+        {
+            "user": "NikoPra",
+            "link": "https://medal.tv/games/geometry-dash/clips/mjNsRCeesRx1Bqb-6?invite=cr-MSxCY2csNDI2OTIyOTAw&v=13",
+            "percent": 100,
+            "hz": 240
+        },
+        {
 
+        "user": "Spodar",
+            "link": "https://youtu.be/cEBMO-V_9kU",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
